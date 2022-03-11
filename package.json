@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Alexey Pochtovik",
+  "license": "ISC",
+  "homepage": "https://alexeydp92.ua",
+  "repository": {
+    "type": "git",
+    "url": "https://alexeydp92.ua"
+  },
+  "bugs": {
+    "url": "https://alexeydp92.ua",
+    "email": "alexeydp92dp@gmail.com"
+  }
+}
